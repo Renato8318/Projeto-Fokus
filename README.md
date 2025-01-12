@@ -90,15 +90,9 @@ O projeto adapta-se a diferentes tamanhos de tela, tornando-se acessível tanto 
 
 ✨ Feedback Visual
 Os botões e a interface mudam de estilo para indicar as ações do usuário, como iniciar e pausar o cronômetro.
->>>>>>> 300f5bfbd933594cb4af42870c6cc2c53f678e12
 
 
-
-
-<<<<<<< HEAD
-=======
 🛠️ Tecnologias Utilizadas
-
 
 
 HTML5: Estrutura da interface e elementos do cronômetro.
@@ -156,6 +150,9 @@ Contribuições são sempre bem-vindas!
 ⏱️ Controle do Cronômetro e Áudio: Garantir a precisão na sincronização entre o cronômetro e os efeitos sonoros foi um desafio, sendo a manipulação do DOM essencial para essa tarefa.
 ♿ Acessibilidade: Implementar a navegação por teclado e tornar o projeto acessível a diferentes públicos foi uma prioridade.
 📱 Design Responsivo: Ajustar a interface para ser adaptável a diferentes dispositivos exigiu o uso de media queries no CSS.
+
+
 📘 Aprendizado
+
 Este projeto foi uma excelente oportunidade para consolidar meus conhecimentos em HTML, CSS e JavaScript, além de melhorar a experiência interativa de um usuário ao manipular eventos do DOM e integrar feedback visual e sonoro.
->>>>>>> 300f5bfbd933594cb4af42870c6cc2c53f678e12
+
